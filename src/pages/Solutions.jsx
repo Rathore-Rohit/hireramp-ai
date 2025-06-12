@@ -5,7 +5,7 @@ import {
   Typography,
   Grid,
 } from "@mui/material";
-import bannerImage from "../assets/bannerSolutions.jpg";
+import bannerImage from "../assets/bannerSolutions.webp";
 import CampaignIcon from "@mui/icons-material/Campaign";
 import GroupIcon from "@mui/icons-material/Group";
 import theme from "../theme";
